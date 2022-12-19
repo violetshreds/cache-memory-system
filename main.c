@@ -1,6 +1,6 @@
 /*
 
-This lab is a cache memory simulator that takes an input text file 
+This is a cache memory simulator that takes an input text file 
 containing memory addresses and R/W specifications, and prompts the 
 user for main memory size, cache size, cache block size, degree
 of set associativity, replacement, write policy and name of the
